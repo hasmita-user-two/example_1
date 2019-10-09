@@ -1,3 +1,8 @@
 print('example 1')
 
-print('example 2 using second branch- conflict one')
+print('example 2 using second branch')
+
+print('third line')
+
+
+
