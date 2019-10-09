@@ -1,5 +1,3 @@
 print('example 1')
 
-print('example 2 using second branch- conflict 2')
-
-
+print('example 2 using second branch- conflict one')
